@@ -7,6 +7,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>React Native Basic Training</Text>
       <Text>DEV A - DEMO</Text>
+      <Text>DEV B - DEMO</Text>
+      <Text>DEV B smart - DEMO</Text>
       <StatusBar style="auto" />
     </View>
   );
